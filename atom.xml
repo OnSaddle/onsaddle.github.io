@@ -106,9 +106,9 @@
     
       <category term="translation" scheme="http://yoursite.com/tags/translation/"/>
     
-      <category term="Yuefu" scheme="http://yoursite.com/tags/Yuefu/"/>
-    
       <category term="homeless" scheme="http://yoursite.com/tags/homeless/"/>
+    
+      <category term="Yuefu" scheme="http://yoursite.com/tags/Yuefu/"/>
     
   </entry>
   
@@ -237,9 +237,9 @@
     
       <category term="poem" scheme="http://yoursite.com/tags/poem/"/>
     
-      <category term="Zheng Chouyu" scheme="http://yoursite.com/tags/Zheng-Chouyu/"/>
-    
       <category term="translation" scheme="http://yoursite.com/tags/translation/"/>
+    
+      <category term="Zheng Chouyu" scheme="http://yoursite.com/tags/Zheng-Chouyu/"/>
     
   </entry>
   
