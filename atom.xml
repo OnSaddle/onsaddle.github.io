@@ -69,13 +69,13 @@
       <category term="WhatsCooking" scheme="http://yoursite.com/categories/WhatsCooking/"/>
     
     
+      <category term="wine" scheme="http://yoursite.com/tags/wine/"/>
+    
       <category term="bread" scheme="http://yoursite.com/tags/bread/"/>
     
       <category term="baking" scheme="http://yoursite.com/tags/baking/"/>
     
       <category term="food" scheme="http://yoursite.com/tags/food/"/>
-    
-      <category term="wine" scheme="http://yoursite.com/tags/wine/"/>
     
   </entry>
   
@@ -611,9 +611,9 @@
     
       <category term="cycling" scheme="http://yoursite.com/tags/cycling/"/>
     
-      <category term="orange" scheme="http://yoursite.com/tags/orange/"/>
-    
       <category term="friend" scheme="http://yoursite.com/tags/friend/"/>
+    
+      <category term="orange" scheme="http://yoursite.com/tags/orange/"/>
     
       <category term="Pinghui" scheme="http://yoursite.com/tags/Pinghui/"/>
     
