@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/about/index.html</loc>
+    
+    <lastmod>2020-03-04T17:25:04.523Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2019/11/25/Conscripted-at-fifteen/</loc>
     
     <lastmod>2020-03-03T13:45:55.579Z</lastmod>
@@ -33,13 +40,6 @@
     <loc>http://yoursite.com/2018/05/29/Conghua-solo/</loc>
     
     <lastmod>2020-02-27T05:23:39.057Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/about/index.html</loc>
-    
-    <lastmod>2020-02-20T11:52:55.115Z</lastmod>
     
   </url>
   
@@ -215,13 +215,6 @@
     <loc>http://yoursite.com/2019/09/19/Drizzle-Zheng-Chouyu/</loc>
     
     <lastmod>2019-10-08T05:11:51.513Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2019/08/31/notching-skiff/</loc>
-    
-    <lastmod>2019-10-08T05:09:13.215Z</lastmod>
     
   </url>
   
